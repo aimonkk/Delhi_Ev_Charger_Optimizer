@@ -48,13 +48,11 @@ Weighted Average Daily Grid Load : 4.125 kWh / vehicle / day
 
 
 
-Target Horizon  |  Focus Area          |   Vehicle Pool Proxy     |  Daily Grid Demand   |  Annual Market Value
-_______________ | ____________________ | ________________________ |  ___________________ | ____________________
-Phase 1:TAM     |  160 Urgent Wards    |   1.50% Transition Pool  |   655,920 kWh/day    |  ₹287.3 Crore / Year
-                  |                      |                          |                      |
-Phase 2: SAM    |   78 Moderate Wards  |   0.75% Expansion Pool   |   157,827 kWh/day    |  ₹69.1 Crore / Year
-                  |                      |                          |                      |
-TOTAL           |  238 Actionable Zone |  Combined Target         |   813,747 kWh/day    |  ₹356.4 Crore / Year
+| Target Horizon | Focus Area | Vehicle Pool Proxy | Daily Grid Demand | Annual Market Value |
+| :--- | :--- | :--- | :---: | :--- |
+| **Phase 1: TAM** | 160 Urgent Wards | 1.50% Transition Pool | 655,920 kWh/day | **₹287.3 Crore / Year** |
+| **Phase 2: SAM** | 78 Moderate Wards | 0.75% Expansion Pool | 157,827 kWh/day | **₹69.1 Crore / Year** |
+| **TOTAL** | **238 Actionable Zones** | **Combined Target** | **813,747 kWh/day** | **₹356.4 Crore / Year** |
 
 
 # Live Demo
