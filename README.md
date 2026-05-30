@@ -9,6 +9,7 @@ Being a data science student who likes finding problems and building solutions, 
 Then I looked at the bigger picture. There is a real shift happening right now. The Middle-East Tension pushed global fuel prices up. The Indian government is aggressively pushing EV incentives under FAME II. Petrol prices are not coming down. People are switching. EV registrations in Delhi alone jumped 30% in 2024.
 The demand is coming. The question is — is the infrastructure ready?
 I built this project to answer that question.
+
 ------------------------------------------------- 
 
 # What This Project Does
@@ -43,7 +44,7 @@ Commercial Fleets / Gig Workers (25% Mix): Rely entirely on public fast hubs for
 Weighted Average Daily Grid Load : 4.125 kWh / vehicle / day
 
   Target Horizon | Focus Area           | Vehicle Pool Proxy    | Daily Grid Demand | Annual Market Value
-  -------------------------------------------------------------------------------------------------------
+  _______________________________________________________________________________________________________
   Phase 1:TAM    | 160 Urgent Wards     | 1.50% Transition Pool | 655,920 kWh/day   | ₹287.3 Crore / Year
   _______________________________________________________________________________________________________
   Phase 2: SAM,  |  78 Moderate Wards   | 0.75% Expansion Pool  | 157,827 kWh/day   | ₹69.1 Crore / Year
