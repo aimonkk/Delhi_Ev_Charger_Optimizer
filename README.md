@@ -46,6 +46,7 @@ Commercial Fleets / Gig Workers (25% Mix): Rely entirely on public fast hubs for
 
 Weighted Average Daily Grid Load : 4.125 kWh / vehicle / day
 
+ 
   Target Horizon  |  Focus Area          |   Vehicle Pool Proxy     |  Daily Grid Demand   |  Annual Market Value
   _______________ | ____________________ | ________________________ |  ___________________ | ____________________
   Phase 1:TAM     |  160 Urgent Wards    |   1.50% Transition Pool  |   655,920 kWh/day    |  ₹287.3 Crore / Year
