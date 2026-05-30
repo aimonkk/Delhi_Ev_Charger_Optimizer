@@ -39,9 +39,10 @@ average consumption rate across all vehicles, the model implements custom user p
 Private EV Owners (75% Mix): Rely heavily on cheaper home charging. Modeled at a minor 1.5 kWh/day public grid dependency.
 
 Commercial Fleets / Gig Workers (25% Mix): Rely entirely on public fast hubs for daily uptime. Modeled at a heavy 12.0 kWh/day consumption.
+
 Weighted Average Daily Grid Load : 4.125 kWh / vehicle / day
 
-# Target Horizon | Focus Area           | Vehicle Pool Proxy    | Daily Grid Demand | Annual Market Value
+  Target Horizon | Focus Area           | Vehicle Pool Proxy    | Daily Grid Demand | Annual Market Value
   -------------------------------------------------------------------------------------------------------
   Phase 1:TAM    | 160 Urgent Wards     | 1.50% Transition Pool | 655,920 kWh/day   | ₹287.3 Crore / Year
   _______________________________________________________________________________________________________
