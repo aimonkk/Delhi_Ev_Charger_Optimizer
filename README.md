@@ -26,7 +26,9 @@ A ward-level analysis of Delhi's EV charging infrastructure that identifies whic
 Out of 250 Delhi wards:
 
 🔴 160 wards are Tier 1 Urgent — high population, critically low charger density
+
 🟠 78 wards are Tier 2 Moderate — some infrastructure but still underserved
+
 🟢 12 wards are Tier 3 Covered — adequate infrastructure
 
 
@@ -44,7 +46,6 @@ Commercial Fleets / Gig Workers (25% Mix): Rely entirely on public fast hubs for
 
 Weighted Average Daily Grid Load : 4.125 kWh / vehicle / day
 
- 
   Target Horizon | Focus Area           | Vehicle Pool Proxy    | Daily Grid Demand | Annual Market Value
   _______________________________________________________________________________________________________
   Phase 1:TAM    | 160 Urgent Wards     | 1.50% Transition Pool | 655,920 kWh/day   | ₹287.3 Crore / Year
